@@ -1,0 +1,18 @@
+.damBtn{
+    padding: 5px 20px;
+    background-image: linear-gradient($color-blue-light, $color-blue);
+    border: none;
+    border-radius: 3px;
+    color: $color-white;
+    font-weight: 600;
+    font-family: 'Open Sans';
+    box-shadow: $shadow-two;
+    cursor: pointer;
+    text-transform: uppercase;
+    &__prev{
+
+    }
+    &__next{
+
+    }
+}
